@@ -5,7 +5,7 @@ type Props = {};
 
 const Professional_Training = (props: Props) => {
     return (
-      <Card title="Professional_Training">
+      <Card title="Professional Training">
         <div>
         <time className="text-sm font-semibold text-gray-500">
           22-23 June 2024
