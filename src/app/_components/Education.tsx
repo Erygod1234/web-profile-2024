@@ -14,6 +14,7 @@ const Education = (props: Props) => {
               January 2021
             </time>
             <h2 className="mb-2 text-sm font-semibold">Walailak University</h2>
+            <div className="mb-2 text-sm font-semibold">GPAX 3.84</div>
           </div>
         </div>
         <div className="mb-5 ml-4">
@@ -23,6 +24,7 @@ const Education = (props: Props) => {
               March 2015
             </time>
             <h2 className="mb-2 text-sm font-semibold">Phatthalung School</h2>
+            <div className="mb-2 text-sm font-semibold">GPAX 3.26</div>
           </div>
         </div>
       </div>
